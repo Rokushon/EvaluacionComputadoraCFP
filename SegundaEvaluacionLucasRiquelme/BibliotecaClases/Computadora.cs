@@ -20,7 +20,7 @@ namespace BibliotecaClases
         {
             List<string> programas = new List<string>();
         }
-        public Computadora(string procesador, int capacidadDisco , int memoriaRam , string sistemaOperativo) : this()
+        public Computadora(string procesador, int capacidadDisco , int memoriaRam , string sistemaOperativo):this()
         {
             this.procesador = procesador;
             this.capacidadDisco = capacidadDisco;

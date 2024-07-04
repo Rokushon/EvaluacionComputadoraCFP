@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Alumno\\Desktop\\SegundaEvaluacionLucasRiquelme\\SegundaEvaluacionLucasRiquelme\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B12731F7-E359-4811-897A-571F42D5CE02}|FormPrincipal\\Formularios.csproj|C:\\Users\\Alumno\\Desktop\\SegundaEvaluacionLucasRiquelme\\SegundaEvaluacionLucasRiquelme\\formprincipal\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B12731F7-E359-4811-897A-571F42D5CE02}|FormPrincipal\\Formularios.csproj|solutionrelative:formprincipal\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3FF10BB3-4D2F-41A6-BAE5-AE9A874FE1E2}|BibliotecaClases\\BibliotecaClases.csproj|c:\\users\\alumno\\desktop\\segundaevaluacionlucasriquelme\\segundaevaluacionlucasriquelme\\bibliotecaclases\\computadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FF10BB3-4D2F-41A6-BAE5-AE9A874FE1E2}|BibliotecaClases\\BibliotecaClases.csproj|solutionrelative:bibliotecaclases\\computadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B12731F7-E359-4811-897A-571F42D5CE02}|FormPrincipal\\Formularios.csproj|c:\\users\\alumno\\desktop\\segundaevaluacionlucasriquelme\\segundaevaluacionlucasriquelme\\formprincipal\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B12731F7-E359-4811-897A-571F42D5CE02}|FormPrincipal\\Formularios.csproj|solutionrelative:formprincipal\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B12731F7-E359-4811-897A-571F42D5CE02}|FormPrincipal\\Formularios.csproj|c:\\users\\alumno\\desktop\\segundaevaluacionlucasriquelme\\segundaevaluacionlucasriquelme\\formprincipal\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B12731F7-E359-4811-897A-571F42D5CE02}|FormPrincipal\\Formularios.csproj|solutionrelative:formprincipal\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B12731F7-E359-4811-897A-571F42D5CE02}|FormPrincipal\\Formularios.csproj|c:\\users\\alumno\\desktop\\segundaevaluacionlucasriquelme\\segundaevaluacionlucasriquelme\\formprincipal\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B12731F7-E359-4811-897A-571F42D5CE02}|FormPrincipal\\Formularios.csproj|solutionrelative:formprincipal\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B12731F7-E359-4811-897A-571F42D5CE02}|FormPrincipal\\FormPrincipal.csproj|C:\\Users\\Alumno\\Desktop\\SegundaEvaluacionLucasRiquelme\\SegundaEvaluacionLucasRiquelme\\formprincipal\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B12731F7-E359-4811-897A-571F42D5CE02}|FormPrincipal\\FormPrincipal.csproj|solutionrelative:formprincipal\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B12731F7-E359-4811-897A-571F42D5CE02}|FormPrincipal\\Formularios.csproj|c:\\users\\alumno\\desktop\\segundaevaluacionlucasriquelme\\segundaevaluacionlucasriquelme\\formprincipal\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B12731F7-E359-4811-897A-571F42D5CE02}|FormPrincipal\\Formularios.csproj|C:\\Users\\Alumno\\Desktop\\SegundaEvaluacionLucasRiquelme\\SegundaEvaluacionLucasRiquelme\\formprincipal\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B12731F7-E359-4811-897A-571F42D5CE02}|FormPrincipal\\Formularios.csproj|solutionrelative:formprincipal\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B12731F7-E359-4811-897A-571F42D5CE02}|FormPrincipal\\FormPrincipal.csproj|c:\\users\\alumno\\desktop\\segundaevaluacionlucasriquelme\\segundaevaluacionlucasriquelme\\formprincipal\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B12731F7-E359-4811-897A-571F42D5CE02}|FormPrincipal\\FormPrincipal.csproj|solutionrelative:formprincipal\\formalta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B12731F7-E359-4811-897A-571F42D5CE02}|FormPrincipal\\Formularios.csproj|C:\\Users\\Alumno\\Desktop\\SegundaEvaluacionLucasRiquelme\\SegundaEvaluacionLucasRiquelme\\formprincipal\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B12731F7-E359-4811-897A-571F42D5CE02}|FormPrincipal\\Formularios.csproj|solutionrelative:formprincipal\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,49 +34,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FormPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\SegundaEvaluacionLucasRiquelme\\SegundaEvaluacionLucasRiquelme\\FormPrincipal\\FormPrincipal.cs",
-              "RelativeDocumentMoniker": "FormPrincipal\\FormPrincipal.cs",
-              "ToolTip": "C:\\Users\\Alumno\\Desktop\\SegundaEvaluacionLucasRiquelme\\SegundaEvaluacionLucasRiquelme\\FormPrincipal\\FormPrincipal.cs",
-              "RelativeToolTip": "FormPrincipal\\FormPrincipal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T22:31:19.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormAlta.cs",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\SegundaEvaluacionLucasRiquelme\\SegundaEvaluacionLucasRiquelme\\FormPrincipal\\FormAlta.cs",
-              "RelativeDocumentMoniker": "FormPrincipal\\FormAlta.cs",
-              "ToolTip": "C:\\Users\\Alumno\\Desktop\\SegundaEvaluacionLucasRiquelme\\SegundaEvaluacionLucasRiquelme\\FormPrincipal\\FormAlta.cs",
-              "RelativeToolTip": "FormPrincipal\\FormAlta.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAcwEMAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T22:21:47.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "FormAlta.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\SegundaEvaluacionLucasRiquelme\\SegundaEvaluacionLucasRiquelme\\FormPrincipal\\FormAlta.cs",
               "RelativeDocumentMoniker": "FormPrincipal\\FormAlta.cs",
               "ToolTip": "C:\\Users\\Alumno\\Desktop\\SegundaEvaluacionLucasRiquelme\\SegundaEvaluacionLucasRiquelme\\FormPrincipal\\FormAlta.cs [Dise\u00F1o]",
               "RelativeToolTip": "FormPrincipal\\FormAlta.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T22:16:15.244Z",
+              "WhenOpened": "2024-07-03T23:43:58.068Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\SegundaEvaluacionLucasRiquelme\\SegundaEvaluacionLucasRiquelme\\FormPrincipal\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "FormPrincipal\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\SegundaEvaluacionLucasRiquelme\\SegundaEvaluacionLucasRiquelme\\FormPrincipal\\FormPrincipal.cs",
+              "RelativeToolTip": "FormPrincipal\\FormPrincipal.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:31:19.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormAlta.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\SegundaEvaluacionLucasRiquelme\\SegundaEvaluacionLucasRiquelme\\FormPrincipal\\FormAlta.cs",
+              "RelativeDocumentMoniker": "FormPrincipal\\FormAlta.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\SegundaEvaluacionLucasRiquelme\\SegundaEvaluacionLucasRiquelme\\FormPrincipal\\FormAlta.cs",
+              "RelativeToolTip": "FormPrincipal\\FormAlta.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAuwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:21:47.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormAlta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\SegundaEvaluacionLucasRiquelme\\SegundaEvaluacionLucasRiquelme\\FormPrincipal\\FormAlta.cs",
+              "RelativeDocumentMoniker": "FormPrincipal\\FormAlta.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\SegundaEvaluacionLucasRiquelme\\SegundaEvaluacionLucasRiquelme\\FormPrincipal\\FormAlta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormPrincipal\\FormAlta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:16:15.244Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Computadora.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\SegundaEvaluacionLucasRiquelme\\SegundaEvaluacionLucasRiquelme\\BibliotecaClases\\Computadora.cs",
+              "RelativeDocumentMoniker": "BibliotecaClases\\Computadora.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\SegundaEvaluacionLucasRiquelme\\SegundaEvaluacionLucasRiquelme\\BibliotecaClases\\Computadora.cs",
+              "RelativeToolTip": "BibliotecaClases\\Computadora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T21:56:06.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "FormPrincipal.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\SegundaEvaluacionLucasRiquelme\\SegundaEvaluacionLucasRiquelme\\FormPrincipal\\FormPrincipal.cs",
               "RelativeDocumentMoniker": "FormPrincipal\\FormPrincipal.cs",
@@ -81,19 +109,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T22:13:07.407Z",
               "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Computadora.cs",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\SegundaEvaluacionLucasRiquelme\\SegundaEvaluacionLucasRiquelme\\BibliotecaClases\\Computadora.cs",
-              "RelativeDocumentMoniker": "BibliotecaClases\\Computadora.cs",
-              "ToolTip": "C:\\Users\\Alumno\\Desktop\\SegundaEvaluacionLucasRiquelme\\SegundaEvaluacionLucasRiquelme\\BibliotecaClases\\Computadora.cs",
-              "RelativeToolTip": "BibliotecaClases\\Computadora.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAxwB8AAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T21:56:06.544Z",
-              "EditorCaption": ""
             }
           ]
         }

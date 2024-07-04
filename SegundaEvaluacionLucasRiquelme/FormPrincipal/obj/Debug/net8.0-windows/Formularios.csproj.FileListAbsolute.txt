@@ -19,3 +19,4 @@ C:\Users\Alumno\Desktop\SegundaEvaluacionLucasRiquelme\SegundaEvaluacionLucasRiq
 C:\Users\Alumno\Desktop\SegundaEvaluacionLucasRiquelme\SegundaEvaluacionLucasRiquelme\FormPrincipal\bin\Debug\net8.0-windows\BibliotecaClases.dll
 C:\Users\Alumno\Desktop\SegundaEvaluacionLucasRiquelme\SegundaEvaluacionLucasRiquelme\FormPrincipal\bin\Debug\net8.0-windows\BibliotecaClases.pdb
 C:\Users\Alumno\Desktop\SegundaEvaluacionLucasRiquelme\SegundaEvaluacionLucasRiquelme\FormPrincipal\obj\Debug\net8.0-windows\Formular.9034CDC0.Up2Date
+C:\Users\Alumno\Desktop\SegundaEvaluacionLucasRiquelme\SegundaEvaluacionLucasRiquelme\FormPrincipal\obj\Debug\net8.0-windows\Formularios.sourcelink.json

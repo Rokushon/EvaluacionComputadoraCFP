@@ -9,3 +9,4 @@ C:\Users\Alumno\Desktop\SegundaEvaluacionLucasRiquelme\SegundaEvaluacionLucasRiq
 C:\Users\Alumno\Desktop\SegundaEvaluacionLucasRiquelme\SegundaEvaluacionLucasRiquelme\BibliotecaClases\obj\Debug\net8.0\refint\BibliotecaClases.dll
 C:\Users\Alumno\Desktop\SegundaEvaluacionLucasRiquelme\SegundaEvaluacionLucasRiquelme\BibliotecaClases\obj\Debug\net8.0\BibliotecaClases.pdb
 C:\Users\Alumno\Desktop\SegundaEvaluacionLucasRiquelme\SegundaEvaluacionLucasRiquelme\BibliotecaClases\obj\Debug\net8.0\ref\BibliotecaClases.dll
+C:\Users\Alumno\Desktop\SegundaEvaluacionLucasRiquelme\SegundaEvaluacionLucasRiquelme\BibliotecaClases\obj\Debug\net8.0\BibliotecaClases.sourcelink.json

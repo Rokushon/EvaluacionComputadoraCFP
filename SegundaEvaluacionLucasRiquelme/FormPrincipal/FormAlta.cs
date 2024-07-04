@@ -35,22 +35,11 @@ namespace FormPrincipal
             int memoriaRam = (int)numeric_memoria_ram.Value;
             string sistemaOperativo = getSistemaOperativo();
             computadora = new Computadora(procesador, capacidadDisco, memoriaRam, sistemaOperativo);
-            //settearPrograma();
             DialogResult = DialogResult.OK;
         }
         private void btn_cancelar_Click(object sender, EventArgs e)
         {
             DialogResult = DialogResult.Cancel;
-        }
-        private void settearPrograma()
-        {
-            foreach(CheckBox cb in gb_programas.Controls)
-            {
-                if (cb.Checked)
-                {
-                    computadora.SetPrograma(cb.Text);
-                }
-            }
         }
         private string getSistemaOperativo()
         {
@@ -62,14 +51,20 @@ namespace FormPrincipal
                     sistemaoperativo = rb.Text;
                     break;
                 }
-                else
-                {
-                    MessageBox.Show("No seleccionaste sistema operativo");
-                    break;
-                }
             }
             return sistemaoperativo;
         }
+
+        /*private void settearPrograma()
+        {
+            foreach(CheckBox cb in gb_programas.Controls)
+            {
+                if (cb.Checked)
+                {
+                    computadora.SetPrograma(cb.Text);
+                }
+            }
+        }*/
 
     }
 }

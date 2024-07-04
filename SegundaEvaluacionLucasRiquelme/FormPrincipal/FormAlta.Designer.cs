@@ -76,6 +76,7 @@
             // 
             // numeric_memoria_ram
             // 
+            numeric_memoria_ram.Increment = new decimal(new int[] { 2, 0, 0, 0 });
             numeric_memoria_ram.Location = new Point(121, 119);
             numeric_memoria_ram.Name = "numeric_memoria_ram";
             numeric_memoria_ram.Size = new Size(143, 23);
@@ -84,6 +85,7 @@
             // numeric_disco
             // 
             numeric_disco.Location = new Point(121, 181);
+            numeric_disco.Maximum = new decimal(new int[] { 5000, 0, 0, 0 });
             numeric_disco.Name = "numeric_disco";
             numeric_disco.Size = new Size(143, 23);
             numeric_disco.TabIndex = 3;
